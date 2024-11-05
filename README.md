@@ -1,7 +1,7 @@
 @@ -1,23 +1 @@
 # Ardunio RC / Obstacle avoidance 
-T
-|--|--|--|--|
+
+
 | Jason Mohr | East High Rochester New York | Electrical Engineering | Incoming Senior |
  # First Milestone
   
