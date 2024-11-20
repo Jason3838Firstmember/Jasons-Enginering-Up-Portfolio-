@@ -4,6 +4,7 @@
 | Jason Mohr | East High,Rochester New York | Electrical Engineering | Incoming Senior |
 
  # First Milestone
+
   
 The first milestone was done in 2023 with the construction of the car and using UltraSonic waves and IR Obstocale Avoidance module. This allowed the Car to indepedently change course and avoid collosions.
 
