@@ -8,7 +8,9 @@
   
 The first milestone was done in 2023 with the construction of the car and using UltraSonic waves and IR Obstocale Avoidance module. This allowed the Car to indepedently change course and avoid collosions.
 
-[![1st Milestone](https://img.youtube.com/vi/GmOdrWnKn7I?si=4XiB-Z9GkZ__zgnq/0.jpg)](https://www.youtube.com/watch?v=s_3hY4ITGJA&t=3s)
+[![Jasons 1st video](https://res.cloudinary.com/marcomontalbano/image/upload/v1732231329/video_to_markdown/images/youtube--s_3hY4ITGJA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=s_3hY4ITGJA&t=3s "Jasons 1st video")
+
+
 
 
 
@@ -19,4 +21,6 @@ Using the Infrared Wavelength and the same operating princple of a TV remote. Us
 
 
 
-[![2nd Milestone](https://img.youtube.com/vi/GmOdrWnKn7I?si=4XiB-Z9GkZ__zgnq/0.jpg)](https://www.youtube.com/watch?v=GmOdrWnKn7I?si=4XiB-Z9GkZ__zgnq)
+[![Jasons 2nd video](https://res.cloudinary.com/marcomontalbano/image/upload/v1732231274/video_to_markdown/images/youtube--GmOdrWnKn7I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=GmOdrWnKn7I&t=1s "Jasons 2nd video")
+
+
