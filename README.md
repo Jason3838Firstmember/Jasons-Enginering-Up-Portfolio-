@@ -26,6 +26,7 @@ Using the Infrared Wavelength and the same operating princple of a TV remote. Us
 # Third Milestone 
 
 The 3rd Milestone done in December 2024 was to incorporate a Laser that can turn off an on with the I.R. remote as mentioned
-prevouisly. A L.A.S.E.R. works by amplifying light into as small of a point as possible in a beam. This laser units wiring is a copy of the L.E.D. wiring, this also means the led function can be used as the base the function for the laser. making adding the laser to the Arduino ports and breadboard relativly simple.
+prevouisly. A L.A.S.E.R. works by amplifying light into as small of a point as possible in a beam. This laser units wiring is a copy of the L.E.D. wiring, this also means the led function can be used as the base the function for the laser. making adding the laser to the Arduino ports and breadboard relativly simple. 
+To support the Laser diode I used solder as a brace.
 
 
